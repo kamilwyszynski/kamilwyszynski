@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kamilwyszynski
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Machine Learning with Tensorflow
+- 👀 AI Solution Explorer
 - 💞️ I’m looking to collaborate on absolutely everything
 - 📫 Here's my e-mail address: kamilwyszysnki0@gmail.com
 
